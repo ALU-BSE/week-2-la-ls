@@ -1,0 +1,452 @@
+[
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "published_year": 1960
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "title": "1984",
+      "author": "George Orwell",
+      "published_year": 1949
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "published_year": 1925
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "published_year": 1813
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 5,
+    "fields": {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "published_year": 1951
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 6,
+    "fields": {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "published_year": 1932
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 7,
+    "fields": {
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "published_year": 1954
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 8,
+    "fields": {
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "published_year": 1997
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 9,
+    "fields": {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "published_year": 1937
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 10,
+    "fields": {
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "published_year": 1851
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 11,
+    "fields": {
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "published_year": 1869
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 12,
+    "fields": {
+      "title": "The Odyssey",
+      "author": "Homer",
+      "published_year": -800
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 13,
+    "fields": {
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "published_year": 1866
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 14,
+    "fields": {
+      "title": "The Divine Comedy",
+      "author": "Dante Alighieri",
+      "published_year": 1320
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 15,
+    "fields": {
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes",
+      "published_year": 1605
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 16,
+    "fields": {
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "published_year": 1880
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 17,
+    "fields": {
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "published_year": 1847
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 18,
+    "fields": {
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "published_year": 1847
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 19,
+    "fields": {
+      "title": "The Iliad",
+      "author": "Homer",
+      "published_year": -750
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 20,
+    "fields": {
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "published_year": 1818
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 21,
+    "fields": {
+      "title": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "published_year": 1844
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 22,
+    "fields": {
+      "title": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "published_year": 1877
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 23,
+    "fields": {
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "published_year": 1862
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 24,
+    "fields": {
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "published_year": 1890
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 25,
+    "fields": {
+      "title": "The Adventures of Huckleberry Finn",
+      "author": "Mark Twain",
+      "published_year": 1884
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 26,
+    "fields": {
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "published_year": 1865
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 27,
+    "fields": {
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "published_year": 1897
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 28,
+    "fields": {
+      "title": "The Grapes of Wrath",
+      "author": "John Steinbeck",
+      "published_year": 1939
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 29,
+    "fields": {
+      "title": "Great Expectations",
+      "author": "Charles Dickens",
+      "published_year": 1861
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 30,
+    "fields": {
+      "title": "The Scarlet Letter",
+      "author": "Nathaniel Hawthorne",
+      "published_year": 1850
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 31,
+    "fields": {
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "published_year": 1967
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 32,
+    "fields": {
+      "title": "The Old Man and the Sea",
+      "author": "Ernest Hemingway",
+      "published_year": 1952
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 33,
+    "fields": {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "published_year": 1988
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 34,
+    "fields": {
+      "title": "The Little Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "published_year": 1943
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 35,
+    "fields": {
+      "title": "The Metamorphosis",
+      "author": "Franz Kafka",
+      "published_year": 1915
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 36,
+    "fields": {
+      "title": "The Stranger",
+      "author": "Albert Camus",
+      "published_year": 1942
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 37,
+    "fields": {
+      "title": "The Trial",
+      "author": "Franz Kafka",
+      "published_year": 1925
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 38,
+    "fields": {
+      "title": "Ulysses",
+      "author": "James Joyce",
+      "published_year": 1922
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 39,
+    "fields": {
+      "title": "The Canterbury Tales",
+      "author": "Geoffrey Chaucer",
+      "published_year": 1400
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 40,
+    "fields": {
+      "title": "Hamlet",
+      "author": "William Shakespeare",
+      "published_year": 1603
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 41,
+    "fields": {
+      "title": "Romeo and Juliet",
+      "author": "William Shakespeare",
+      "published_year": 1597
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 42,
+    "fields": {
+      "title": "Macbeth",
+      "author": "William Shakespeare",
+      "published_year": 1606
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 43,
+    "fields": {
+      "title": "The Odyssey",
+      "author": "Homer",
+      "published_year": -800
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 44,
+    "fields": {
+      "title": "The Republic",
+      "author": "Plato",
+      "published_year": -380
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 45,
+    "fields": {
+      "title": "The Art of War",
+      "author": "Sun Tzu",
+      "published_year": -500
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 46,
+    "fields": {
+      "title": "The Prince",
+      "author": "Niccolò Machiavelli",
+      "published_year": 1532
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 47,
+    "fields": {
+      "title": "The Communist Manifesto",
+      "author": "Karl Marx and Friedrich Engels",
+      "published_year": 1848
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 48,
+    "fields": {
+      "title": "The Origin of Species",
+      "author": "Charles Darwin",
+      "published_year": 1859
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 49,
+    "fields": {
+      "title": "A Brief History of Time",
+      "author": "Stephen Hawking",
+      "published_year": 1988
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 50,
+    "fields": {
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "published_year": 2011
+    }
+  }
+]
